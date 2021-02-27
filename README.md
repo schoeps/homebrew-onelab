@@ -1,4 +1,7 @@
-# Schoeps Onelab
+# Onelab and GetDP 
+
+## Software
+* GetDP: A General Environment for the Treatment of Discrete Problems http://getdp.info
 
 ## How do I install these formulae?
 `brew install schoeps/onelab/<formula>`
